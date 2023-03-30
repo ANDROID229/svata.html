@@ -3,6 +3,8 @@ body {
 }
 header{
     background-color: lightblue;
+    border: 1px solid lightblue;
+    border-radius: 20px;
 }
 h1{
     text-align: center;
@@ -46,7 +48,7 @@ footer{
 footer p {
     border: 1px solid rgba(0, 255, 76, 0);
     border-radius: 20px;
-    margin-right: 580px;
+    margin-right: 750px;
     background-color:rgba(195, 0, 255, 0.178);
 }
 nav{
@@ -66,4 +68,7 @@ table{
     background-color: lightgreen;
     border: 30px;
     border-radius: 20px;
+}
+.bb{
+    text-align: center;
 }
